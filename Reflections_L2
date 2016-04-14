@@ -1,0 +1,15 @@
+Lesson 2
+
+Okay, I did as they told me too. I initialized a repository for this txt object. The problem I have is that I added this to my repository before they told me too, so now the AutoCheck that tracks quizzes thinks I did something wrong. Maybe I could say that I did make a mistake by (unintentially) jumping the gun, but we'll find out if I did at some later point.
+
+That little bubble map they're using doesn't make much sense to me. It's reasonable to say that the WoDir is separate and linked to the Staging Area. Using various commands you can add and remove files to the staging area, keep track of the status of the repository, etc. but for the moment all I can focus on is what something does and not why or how it does it. Overly simple I imagine, but I can't help that. As I get more used to using git I'll probably start to grasp some of the more complicated bits.
+
+I've figured out that you can remove files from the staging area once they're in. Using that command, I would expect that you can pull staged files out and update/change them and then restage them again.
+
+Branches are something that I expected since so many other lessons were using the tree metaphor. I can see several uses for the branch system. Variations on the software would be easier to test or combine. Working in a group would be something else you could consider. One person could create a master, branch it off and let someone else work on part of it, test it, merge, and repeat. I can suppose that helps in business quite a bit, and reduces risk significantly.
+
+I suppose that you can use the diagram to explain logically how the commit/branch system works. I think it makes the most sense, but I get the feeling that the truth is a bit more complicated.
+
+It can be said that merging the master with the coins commit creates a new path. The question I would have to ask is how does the system know which lines to combine? What if two developers put code at the same line but with different instructions? To keep things simple, what if one developer changed the color of an object blue while another changed it to green? Would that not cause some form of conflict within the system?
+
+Pros are that you don't have to wonder if the autosave caught the last few minutes of work you've done. Largest con is that you have to remember to save your work regularly. You can lose a lot more if you forget to save.

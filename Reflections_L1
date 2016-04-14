@@ -1,0 +1,14 @@
+Lesson 1
+
+I can see the utility of this course but I already have difficulty keeping myself on-task. It seems to be one of those essential yet breaktakingly boring classes everyone who's been in college has been made to take. Hopefully I'm just being a pessimist.
+
+It seems like having access to all the previous versions of a project would be useful once things got larger. I can't imagine that a smaller code would need version tracking, but once things got larger and more involved the abilty to track all changes would be useful. Especially during debugging.
+
+In my own mind, manual commits would be the better way to go. Automatic saves tend to be in the middle of something important. I've seen things autosaved and then the page reopened after a crash only to find that the autosaved didn't catch the past five minutes of work, which then has to be recreated all over again. Manual saves would be a better idea since you can choose the save point you want and however often you prefer. The only trick is making sure that you remember to hit the save key on a regular basis.
+
+I won't get into the nittygritty of my first thoughts of this process. I think its a great idea and is very useful, but being stuck with learning/using Unix commands through a terminal is very frustrating. I don't want to age myself, but this interface reminds me far too much of working with MS/DOS. Not very fun.
+
+Good point. You can save the critical work and then go play without risking the complete destruction of a long-term project. It also gives you the chance to take one commit and branch out in different directions. You could write up a different UI, or color scheme, or any number of other things. You could also build things to the design the client suggested, commit, and then rework it in another way without having to do it all over again if the client wanted the exact design to begin with.
+
+I'm not sure what I'll use it for yet. I have a lot of projects floating around in my skull, so I'm sure I'll come up with something. However, I'm sure you have something in mind already.
+
